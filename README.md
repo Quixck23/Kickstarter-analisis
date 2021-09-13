@@ -17,7 +17,7 @@ Performing analysis on kickstarter data to uncover new trends
 
 ### Analysis of Outcomes Based on Launch Date
 
-	This analysis shows that a campaign is more likeable to reach their goals if it is done from April to June. Maybe the most with the highest approval. We can also deduce there is a low chance of approval on the cold months. At the same time, April to August are the highest months with failed campaigns. However, successful campaigns doubled numbers of failed campaigns on 	those months. December appears to be a 50% chance of success, the only month in which there is almostThe same	amount of approval as failed campaigns.
+	This analysis shows that a campaign is more likeable to reach their goals if it is done from April to June. Maybe the most with the highest approval. We can also deduce there is a low chance of approval on the cold months. At the same time, April to August are the highest months with failed campaigns. However, successful campaigns doubled numbers of failed campaigns on those months. December appears to be a 50% chance of success, the only month in which there is almostThe same amount of approval as failed campaigns.
 	
 ### Analysis of Outcomes Based on Goals
  
